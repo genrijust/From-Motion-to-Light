@@ -1,4 +1,4 @@
-# ⚡ Motion Meets Light — Custom PIC16F1829 PCB Design
+# ⚡ Motion Meets Light — Custom PIC16F1829 PCB Design  (EasyEDA)
 
 A concept PCB design that visualizes motion with light. Built around a PIC16F1829 microcontroller, a 3-axis accelerometer and an RGB LED. this EasyEDA project explores how movement can be translated into dynamic color output. This is a learning-focused design: schematic and PCB layout are complete in the tool, but the physical board has not fabricated.
 
